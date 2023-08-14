@@ -40,6 +40,7 @@
 ##  Контакты:
 - Email: manager[@]telegramprime.com
 - Telegram: [Отправить сообещние](https://telegramprime.com/telegram-contact)
+- ICQ: https://icq.im/TelegramPrime
 
 * либо через форму связи на наших сайтах Telegram-Prime:
 - Веб: https://telegramprime.com/ - RU версия
