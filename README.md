@@ -39,7 +39,7 @@
 
 ##  Контакты:
 - Email: manager[@]telegramprime.com
-- Telegram: @TGG_Sales
+- Telegram: [Отправить сообещние](https://telegramprime.com/telegram-contact)
 
 * либо через форму связи на наших сайтах Telegram-Prime:
 - Веб: https://telegramprime.com/ - RU версия
