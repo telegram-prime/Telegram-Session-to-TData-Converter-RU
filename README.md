@@ -40,9 +40,10 @@
 
 
 ##  Контакты:
-- Email: manager[@]telegramprime.com
-- Telegram: [Отправить сообещние](https://telegramprime.com/telegram-contact)
-- ICQ: [Отправить сообещние](https://telegramprime.com/icq-contact)
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 
 * либо через форму связи на наших сайтах Telegram-Prime:
 - Веб: https://telegramprime.com/ - RU версия
