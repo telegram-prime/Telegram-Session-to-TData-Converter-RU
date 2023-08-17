@@ -8,6 +8,8 @@
 ## Описание функционала:
  - Позволит сконвертировать Телеграм аккаунты формата .session в формат TData;
  - Гибкая настройка эмуляции устройств используемых для подключения к сессии;
+ - Возможность использовать параметры устройства из .json файла;
+ - Возможность создания новой сессии либо оставить старую;
  - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
  - Автоматический импорт 2ФА из конфигурации .json (With Json Mode) либо ручная вставка единого 2ФА для сессий (Without Json Mode);
  - Пропускает плохие сессии если не удалось к ним подключиться;
@@ -29,8 +31,8 @@
 
 ## Скриншоты:
 
-<img width="392" alt="S2TD_Screen_1" src="https://user-images.githubusercontent.com/94137664/199133370-bc2d93a0-8c18-4eca-9b3c-704ea21bc248.png"> <img width="391" alt="S2TD_Screen_2" src="https://user-images.githubusercontent.com/94137664/199133372-bc35a166-4f58-478b-9567-dac65fdce880.png">
-<img width="392" alt="S2TD_Screen_3" src="https://user-images.githubusercontent.com/94137664/199133373-80ff3c25-59f0-41ef-a90d-b91f9719dca2.png"> <img width="393" alt="S2TD_Screen_4" src="https://user-images.githubusercontent.com/94137664/199133375-03836862-53b0-4f77-ab65-e5037bb7cb8d.png">
+![S2TD_v 1 5 _RU_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/1bd7885b-24a9-4057-b20c-80b544d4ff72) ![S2TD_v 1 5 _RU_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/93a3cb0b-a5d6-472d-b58d-d350f32857ed) 
+![S2TD_v 1 5 _RU_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/89403d25-8d83-4c3f-b011-25fd077d11b2) ![S2TD_v 1 5 _RU_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/470595c2-8ff8-4116-a96f-208ac24b9935)
 
 
 
@@ -40,7 +42,7 @@
 ##  Контакты:
 - Email: manager[@]telegramprime.com
 - Telegram: [Отправить сообещние](https://telegramprime.com/telegram-contact)
-- ICQ: https://icq.im/TelegramPrime
+- ICQ: [Отправить сообещние](https://telegramprime.com/icq-contact)
 
 * либо через форму связи на наших сайтах Telegram-Prime:
 - Веб: https://telegramprime.com/ - RU версия
