@@ -7,6 +7,7 @@
 
 ## Описание функционала:
  - Позволит сконвертировать Телеграм аккаунты формата .session в формат TData;
+ - Мельтипоточная работа.
  - Гибкая настройка эмуляции устройств используемых для подключения к сессии;
  - Возможность использовать параметры устройства из .json файла;
  - Возможность создания новой сессии либо оставить старую;
@@ -29,14 +30,14 @@
 - Неограниченное количество операций на неограниченный срок.
 
 
+## Видео
+- [YouTube](https://youtu.be/CkEJTBAZ9pc)
+
+
 ## Скриншоты:
 
-![S2TD_v 1 5 _RU_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/1bd7885b-24a9-4057-b20c-80b544d4ff72) ![S2TD_v 1 5 _RU_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/93a3cb0b-a5d6-472d-b58d-d350f32857ed) 
-![S2TD_v 1 5 _RU_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/89403d25-8d83-4c3f-b011-25fd077d11b2) ![S2TD_v 1 5 _RU_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/470595c2-8ff8-4116-a96f-208ac24b9935)
-
-
-
-- [YouTube Video](https://youtu.be/_U3eIo_22J0)
+![S2TD_v 1 6 _RU_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/c58f5483-b351-4f67-8191-53799094b1ea) ![S2TD_v 1 6 _RU_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/ba5fe612-ec85-494b-b0a2-0859ebf6adac)
+![S2TD_v 1 6 _RU_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/6ac0db5a-0ae3-42d8-88a2-84d6d2a51a86) ![S2TD_v 1 6 _RU_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/8079444c-49dd-439f-958a-ae1fc9ea0afd)
 
 
 ##  Контакты:
@@ -44,6 +45,7 @@
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
 - ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Element:  [Send message](https://telegramprime.com/element-contact)
 
 * либо через форму связи на наших сайтах Telegram-Prime:
 - Веб: https://telegramprime.com/ - RU версия
@@ -51,5 +53,5 @@
 
 
 ## Мотивация проекта:
-* [Купите нам кофе :)](https://commerce.coinbase.com/checkout/3bb9ffcb-4638-480a-a2e8-d930643a230a)
+* [Купите нам кофе :)](https://nowpayments.io/donation/telegramprime)
 * Благодарим Вас!
