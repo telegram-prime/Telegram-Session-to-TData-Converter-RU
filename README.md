@@ -1,22 +1,24 @@
-# S2TD Converter - Конвертер Телеграм аккаунтов формата .session в формат TData.
-## Конвертирует сессии Телеграм аккаунтов в аккаунты формата TData (для Telegram Desktop и других приложений).
+# S2TD Converter - Конвертер Телеграм аккаунтов формата SESSION в формат TDATA.
+## Конвертирует SESSION или SESSION+JSON Телеграм аккаунты в аккаунты формата TDATA (для Telegram Desktop и других приложений).
  
- * Description is also available in English. Please See [S2TD Coverter ENG](https://github.com/telegram-prime/)
+ * Description is also available in English. Please See [S2TD Coverter ENG](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/)
  * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 
 ## Описание функционала:
- - Позволит сконвертировать Телеграм аккаунты формата .session в формат TData;
- - Мультипоточная работа.
- - Гибкая настройка эмуляции устройств используемых для подключения к сессии;
- - Возможность использовать параметры устройства из .json файла;
- - Возможность создания новой сессии либо оставить старую;
- - Настройка использования уникальных HTTP или SOCKS5 для подключения к сессии (поддержка большого количества прокси);
- - Автоматический импорт 2ФА из конфигурации .json (With Json Mode) либо ручная вставка единого 2ФА для сессий (Without Json Mode);
- - Пропускает плохие сессии если не удалось к ним подключиться;
- - Сортирует в отдельные папки хорошие и плохие сессии;
- - Возможность сохранять журнал работы;
- - Возможность создавать бекапы перед конвертацией.
+ - Конвертация файлов формата Telegram SESSION или SESSION+JSON в формат Telegram TDATA.
+ - Многопоточная обработка.
+ - Использование, контроль и настройка параметров устройства, через которое выполняется подключение к сессии.
+ - Использование настроек устройства из JSON-файла.
+ - Возможность задать пользовательское количество попыток подключения и задержек между ними.
+ - Поддержка опции отключения других сеансов на аккаунте во время конвертации или повторной авторизации.
+ - Гибкая настройка эмуляции устройств, используемых для подключения к сессии.
+ - Возможность задать уникальный HTTP- или SOCKS5-прокси для каждого подключения (поддержка многострочного списка).
+ - Автоматический импорт 2FA для TDATA из JSON-файлов (в режиме JSON) или ручной ввод 2FA (без JSON-режима).
+ - Пропуск нерабочих сессий при отсутствии подключения.
+ - Сортировка валидных и невалидных аккаунтов в отдельные папки.
+ - Сохранение логов работы.
+ - Создание резервных копий исходных файлов перед началом работы.
 
 
 ## Мы предлагаем бесплатный тест программы на 24 часа, в период которого пользователь сможет выполнить 5 неограниченных по объему операций чтобы убедиться в чистоте и качестве работы программы.
@@ -25,8 +27,8 @@
  - [Всегда свежий релиз здесь.](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/releases/latest)
 
 ## После тестового периода мы предлагаем следующие варианты активации: 
-- 100 операций на период 30 дней (в зависимости что наступит раньше),
-- 1000 операций на период 365 дней (в зависимости что наступит раньше),
+- 1'000 операций на период 30 дней (в зависимости что наступит раньше),
+- 10'000 операций на период 365 дней (в зависимости что наступит раньше),
 - Неограниченное количество операций на неограниченный срок.
 
 
@@ -36,18 +38,16 @@
 
 ## Скриншоты:
 
-![S2TD_v 1 6 _RU_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/c58f5483-b351-4f67-8191-53799094b1ea) ![S2TD_v 1 6 _RU_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/ba5fe612-ec85-494b-b0a2-0859ebf6adac)
-![S2TD_v 1 6 _RU_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/6ac0db5a-0ae3-42d8-88a2-84d6d2a51a86) ![S2TD_v 1 6 _RU_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/assets/94137664/8079444c-49dd-439f-958a-ae1fc9ea0afd)
+<img width="799" alt="S2TD" src="https://github.com/user-attachments/assets/aaea2bf3-74a8-4478-b4dc-fb0bbeaef04b" />
 
 
 ##  Контакты:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - Element:  [Send message](https://telegramprime.com/element-contact)
 
-* либо через форму связи на наших сайтах Telegram-Prime:
+* либо через форму связи на сайтах:
 - Веб: https://telegramprime.com/ - RU версия
 - Веб: https://telegramprime.net/ - EN версия
 
