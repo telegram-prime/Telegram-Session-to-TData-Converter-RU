@@ -5,7 +5,7 @@
 
 ## 📚 Поддержка нескольких языков
 - Русский – эта страница  
-- English – [S2TD Converter RU](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/)  
+- English – [S2TD Converter EN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/)  
 - 简体中文 – [S2TD Converter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 ---
