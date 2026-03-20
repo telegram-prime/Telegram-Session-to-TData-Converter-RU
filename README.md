@@ -73,11 +73,11 @@
 
 | Канал | Ссылка |
 |-------|--------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [Отправить сообщение](https://telegramprime.net/telegram-contact) |
-| Matrix | [Отправить сообщение](https://telegramprime.net/element-contact) |
-| Веб (EN) | https://telegramprime.net/ |
-| Веб (RU) | https://telegramprime.com/ |
+| Email | manager[@]telegram-converter.com |
+| Telegram | [Отправить сообщение](https://telegram-converter.com/telegram-contact) |
+| Discord | [Отправить сообщение](https://telegram-converter.com/discord-contact) |
+| Matrix | [Отправить сообщение](https://telegram-converter.com/matrix-contact) |
+| Веб | https://telegram-converter.com/ |
 
 ---
 
