@@ -5,8 +5,8 @@
 
 ## 📚 Поддержка нескольких языков
 - Русский – эта страница  
-- English – [S2TD Converter EN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter/)  
-- 简体中文 – [S2TD Converter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
+- English – [S2TD Converter EN](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter/)  
+- 简体中文 – [S2TD Converter CN](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter-CN)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 📥 Загрузка
 
-- **Всегда последняя версия** – [GitHub](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/releases/latest)
+- **Всегда последняя версия** – [Website](https://telegram-converter.com/downloads/s2td/ru/latest)
 
 ---
 
@@ -83,6 +83,6 @@
 
 ## ☕️ Поддержка
 
-- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/mcv)
    
 Спасибо за вашу поддержку!
